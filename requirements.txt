@@ -6,4 +6,3 @@ langchain-community
 faiss-cpu
 openai
 tiktoken
-concurrent-futures
